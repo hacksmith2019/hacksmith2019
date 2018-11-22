@@ -257,11 +257,8 @@ body a:hover
 
 .intro-page 
 {
-    padding-bottom: 170px;
-    min-height: calc(100vh - 170px);
+    height: 750px;
 	background: #6666AF;
-    background-repeat: repeat; 
-    background-position: center top; 
     background-size: cover;
     z-index: 10;
 }
