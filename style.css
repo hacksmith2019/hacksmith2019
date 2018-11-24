@@ -257,7 +257,7 @@ body a:hover
 
 .intro-page 
 {
-    height: 750px;
+    height: 650px;
 	background: #6666AF;
     background-size: cover;
     z-index: 10;
@@ -335,8 +335,8 @@ h1.big-title
 .service-holder 
 {
     display: inline-block;
-    width: 335px;
-	height: 250px;
+    width: 335px !important;
+	height: 300px !important;
 }
 
 .service-holder img 
@@ -1561,6 +1561,7 @@ footer
     }
 }
 
+
 .button_reg {
     background-color: white;
     color: #290C5B;
@@ -1575,9 +1576,10 @@ footer
 	position: relative;
 	margin-left: 45%;
 	margin-right: 45%;
-	margin-top: 20px;
+	margin-bottom: 30px;
 	
 }
+
 
 .button_reg:hover {
     background-color: #290C5B;
